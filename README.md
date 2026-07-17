@@ -42,14 +42,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akanra-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanra-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akanra-dev&theme=tokyonight)](https://github.com/akanra-dev)
 
-</div>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akanra-dev&theme=tokyonight)](https://github.com/akanra-dev)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akanra-dev&theme=tokyonight)](https://github.com/akanra-dev)
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=akanra-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akanra-dev&theme=tokyonight)](https://github.com/akanra-dev)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akanra-dev&theme=tokyonight&utcOffset=7)](https://github.com/akanra-dev)
 
 </div>
 
@@ -59,7 +58,8 @@
 
 <div align="center">
 
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/akanradev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akanra-dev)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_DEVTO)
 
 </div>
 
