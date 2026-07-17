@@ -48,7 +48,7 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akanra-dev&theme=tokyonight)](https://github.com/akanra-dev)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akanra-dev&theme=tokyonight)](https://github.com/akanra-dev)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akanra-dev&theme=tokyonight&utcOffset=7)](https://github.com/akanra-dev)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akanra-dev&theme=tokyonight&utcOffset=8)](https://github.com/akanra-dev)
 
 </div>
 
