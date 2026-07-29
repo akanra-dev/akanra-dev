@@ -43,6 +43,8 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
@@ -67,8 +69,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akanra-dev)
-
 </div>
 
 ---
@@ -79,10 +79,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akanra-dev&color=58A6FF&style=flat)
 
-</div>![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+</div>
 ---
 
 ## 📊 GitHub Stats
@@ -97,7 +94,6 @@
 
 ## 🚀 What I'm Working On
 
-- 🐍 **tetris-cli** — Tetris di terminal, karena kenapa tidak
 - 🐧 Tinkering dengan self-hosted tools di Debian
 - 📖 Belajar Go lebih dalam — concurrency, CLI tooling
 - 🔧 Eksplorasi Docker & container workflow
