@@ -82,7 +82,8 @@
 
 <p align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=akanra-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akanra-dev&theme=tokyo-night&hide_border=true)
+  
+ [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akanra-dev&theme=tokyo-night&hide_border=true)
 </p>
 
 ---
