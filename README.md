@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Akanra! 👋🐧
 
-<!--
-**akanra-dev/akanra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Tux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-Here are some ideas to get you started:
+Just a **Debian enthusiast** who loves coding, tinkering, and making random CLI projects. **Fokus belajar Git** biar makin jago version control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My GitHub Stats
+![Akanra's GitHub stats](https://github-readme-stats.vercel.app/api?username=akanra-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanra-dev&layout=compact&theme=tokyonight)
+
+## 🐧 Random Tux
+> "In a world full of Windows, be a Tux."
+
+---
+
+_Made with ❤️ on Debian_
