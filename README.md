@@ -90,6 +90,18 @@ status: Building cool things from the terminal
 [![GitHub stars](https://img.shields.io/github/stars/akanra-dev/debian-command-vault?style=social&label=Stars)](https://github.com/akanra-dev/debian-command-vault)
 [![GitHub last commit](https://img.shields.io/github/last-commit/akanra-dev/debian-command-vault?color=58A6FF)](https://github.com/akanra-dev/debian-command-vault)
 [![License](https://img.shields.io/github/license/akanra-dev/debian-command-vault?color=58A6FF)](https://github.com/akanra-dev/debian-command-vault)
+[![CI](https://github.com/akanra-dev/debian-command-vault/actions/workflows/ci.yml/badge.svg)](https://github.com/akanra-dev/debian-command-vault/actions)
+
+### [🐊 Gator Gobble](https://github.com/akanra-dev/gator-gobble)
+
+*A pure Bash terminal game — feed a hungry crocodile before the food falls.*
+
+| Stack | Status |
+|-------|--------|
+| Bash + Python | ✅ Playable |
+
+[![GitHub stars](https://img.shields.io/github/stars/akanra-dev/gator-gobble?style=social&label=Stars)](https://github.com/akanra-dev/gator-gobble)
+[![GitHub last commit](https://img.shields.io/github/last-commit/akanra-dev/gator-gobble?color=58A6FF)](https://github.com/akanra-dev/gator-gobble)
 
 </div>
 
